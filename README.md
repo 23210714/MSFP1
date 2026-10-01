@@ -4,7 +4,7 @@
 
 ## Información de la estudiante
 
-Nombres y Apellidos \[No. Control]; correo institucional
+Maria luisa Michelle Muñoz Meneses 2320714 l23210714@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
